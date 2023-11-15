@@ -8,8 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallavi-shtgr" alt="pallavi-shtgr" /></a> </p>
 
-- 🌱 I’m currently learning **Back end development**
-
+- 👩🏻‍💻 Currently pursuing my BE in CSE
 - 📫 How to reach me **pallavishettigar03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
