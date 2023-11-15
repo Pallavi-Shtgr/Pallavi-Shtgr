@@ -8,13 +8,14 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallavi-shtgr" alt="pallavi-shtgr" /></a> </p>
 
-- 👩🏻‍💻 Currently pursuing my BE in CSE
+- 🌱 I’m currently learning **javascript**
+
 - 📫 How to reach me **pallavishettigar03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pallavi-shettigar-12b539253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pallavi-shettigar-12b539253/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/pallavi_63" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pallavi_63" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/pallavi_63https://www.codechef.com/users/pallavi_63" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pallavi_63https://www.codechef.com/users/pallavi_63" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/pallavi-shtgr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pallavi-shtgr/" height="30" width="40" /></a>
 </p>
 
