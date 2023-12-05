@@ -4,7 +4,7 @@ Pallavi-Shtgr/Pallavi-Shtgr is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Namasthe👋, I'm Pallavi</h1>
-<h3 align="center">Journey into the world of software magic! 👩‍💻🚀</h3>
+<h3 align="center">Journey into the world of software magic...! 👩‍💻🚀</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallavi-shtgr" alt="pallavi-shtgr" /></a> </p>
 
