@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pallavi</h1>
 <h3 align="center">Journey into the world of software magic! 👩‍💻🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/programmer-working-with-php_5480316.htm#query=girl%20coding&position=0&from_view=keyword&track=ais&uuid=7743b07f-2a2d-4ab7-9b66-d415ec2dddd4">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavi-shtgr&label=Profile%20views&color=0e75b6&style=flat" alt="pallavi-shtgr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallavi-shtgr" alt="pallavi-shtgr" /></a> </p>
