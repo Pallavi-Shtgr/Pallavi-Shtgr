@@ -1,5 +1,5 @@
-<h1 align="center">Namasthe , I'm Pallavi</h1>
-<h3 align="center">Journey into the world of software magic! 👩‍💻🚀</h3>
+<h1 align="center">Namasthe, I'm Pallavi</h1>
+<h3 align="center">Journey into the world of software magic...! 👩‍💻🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavi-shtgr&label=Profile%20views&color=0e75b6&style=flat" alt="pallavi-shtgr" /> </p>
 
