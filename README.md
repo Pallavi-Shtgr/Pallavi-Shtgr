@@ -1,31 +1,4 @@
 <!-- Add this code at the beginning of your README.md file -->
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      background-color: #0d1117;
-      color: #c9d1d9;
-      font-family: Arial, sans-serif;
-      padding: 20px;
-    }
-    h1, h3 {
-      color: #58a6ff;
-      text-align: center;
-    }
-    p {
-      color: #8b949e;
-    }
-    a {
-      color: #58a6ff;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-    }
-  </style>
-</head>
-<body>
 
 <h1 align="center"> I'm Pallavi</h1>
 <h3 align="center">Journey into the world of software magic...! 👩‍💻🚀</h3>
@@ -56,6 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavi-shtgr&show_icons=true&locale=en&theme=dark" alt="pallavi-shtgr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi-shtgr&theme=dark&count_private=true&show_icons=true&locale=en" alt="pallavi-shtgr" /></p>
-
-</body>
-</html>
