@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallavi-shtgr" alt="pallavi-shtgr" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/pallavi_shtgr" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/pallavi_shtgr?logo=twitter&style=for-the-badge" alt="https://x.com/pallavi_shtgr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@pallavi_shtgr" target="blank"><img src="https://img.shields.io/twitter/follow/@pallavi_shtgr?logo=twitter&style=for-the-badge" alt="@pallavi_shtgr" /></a> </p>
 
 - 🌱 I’m currently learning **Full stack Development**
 
@@ -13,9 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/pallavi_shtgr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/pallavi_shtgr" height="30" width="40" /></a>
+<a href="https://x.com/Pallavi_Shtgr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pallavi_shtgr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pallavi-shettigar-12b539253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pallavi-shettigar-12b539253/" height="30" width="40" /></a>
-<a href="https://instagram.com/p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pallavi_63" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pallavi_63" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pallavi-shtgr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pallavi-shtgr" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/pallavishettiga1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/pallavishettiga1" height="30" width="40" /></a>
