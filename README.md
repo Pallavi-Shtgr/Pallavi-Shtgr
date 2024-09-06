@@ -62,3 +62,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavi-shtgr&show_icons=true&locale=en" alt="pallavi-shtgr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi-shtgr&" alt="pallavi-shtgr" /></p>
+https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
