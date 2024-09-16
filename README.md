@@ -22,9 +22,9 @@
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/pallavishev7ej/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/pallavishev7ej/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"> :</h3>
+<h3 align="left"> </h3>
 <p align="center">
-  <img src="https://image.lexica.art/full_jpg/659e04dc-17a6-4026-bd72-a7dc2a0077bc" alt="Highlight 1" width="300" height="200" />
+  <img src="https://image.lexica.art/full_jpg/659e04dc-17a6-4026-bd72-a7dc2a0077bc" alt="Highlight 1" width="300" height="400" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
