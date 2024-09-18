@@ -1,5 +1,5 @@
 <h1 align="center">Hello Github Community👋, I'm Pallavi</h1>
-<h3 align="center">Journey into the world of software magic! 👩‍💻🚀</h3>
+<h3 align="center">Journey into the world of software magic! 👩‍💻</h3>
 
 <p align="center">
   <img src="https://image.lexica.art/full_jpg/659e04dc-17a6-4026-bd72-a7dc2a0077bc" alt="Highlight 1" width="300" height="400" />
