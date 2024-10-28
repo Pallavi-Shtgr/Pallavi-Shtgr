@@ -7,7 +7,7 @@
   <img src="https://image.lexica.art/full_jpg/659e04dc-17a6-4026-bd72-a7dc2a0077bc" alt="Highlight 1" width="300" height="400" />
 </p>
 
-<p align="left"> <img src="https://holopin.io/@pallavishtgr" alt="pallavi-shtgr" /> </p>
+<p align="left"> "https://holopin.io/@pallavishtgr" alt="pallavi-shtgr"</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallavi-shtgr" alt="pallavi-shtgr" /></a> </p>
 
