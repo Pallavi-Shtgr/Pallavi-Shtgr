@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src=" " alt="Highlight 1" width="300" height="400" />
+  <img src=" " alt=" " width="300" height="400" />
 </p>
 
 
