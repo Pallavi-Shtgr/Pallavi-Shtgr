@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://image.lexica.art/full_jpg/659e04dc-17a6-4026-bd72-a7dc2a0077bc" alt="Highlight 1" width="300" height="400" />
+  <img src=" " alt="Highlight 1" width="300" height="400" />
 </p>
 
 
