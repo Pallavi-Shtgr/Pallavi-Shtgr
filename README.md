@@ -4,8 +4,7 @@
 
 
 <p align="center">
-  <img src="![HACKTOBER](https://github.com/user-attachments/assets/c8e63da6-8971-4ca5-a33d-35664fd49369)
-" alt="Description" width="600" height="400" />
+  <img src="![HACKTOBER](https://github.com/user-attachments/assets/c8e63da6-8971-4ca5-a33d-35664fd49369)" alt="Description" width="600" height="400" />
 </p>
 
 
