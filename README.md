@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full stack Development**
 
-- 📫 How to reach me **pallavishettigar03@gmail.com**
+-  How to reach me **pallavishettigar03@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
