@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallavi-shtgr" alt="pallavi-shtgr" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@pallavi_shtgr" target="blank"><img src="https://img.shields.io/twitter/follow/@pallavi_shtgr?logo=twitter&style=for-the-badge" alt="@pallavi_shtgr" /></a> </p>
-- 🌱 I’m currently learning **Full stack Development**
 
 
 <h3 align="left">Connect with me:</h3>
