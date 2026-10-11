@@ -7,9 +7,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/twitter/follow/pallavi_shtgr?logo=twitter&style=for-the-badge" alt="pallavi_shtgr" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
