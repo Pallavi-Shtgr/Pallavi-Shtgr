@@ -1,11 +1,11 @@
 <h1 align="center">Hello Github Community, I'm Pallavi</h1>
 <h3 align="center">into the world of software magic !!! </h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=pallavi-shtgr" alt="pallavi-shtgr" />
   </a>
-</p>
+</p> -->
 
 
 <h3 align="left">Connect with me:</h3>
